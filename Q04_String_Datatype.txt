@@ -1,0 +1,10 @@
+<?php
+	$a = "Hello World";
+	echo $a;
+
+	$b = "This is a PHP Program";
+	echo $b;
+
+	$c = "Written by Himaadri Kapoor, 2220100224";
+	echo $c;
+?>

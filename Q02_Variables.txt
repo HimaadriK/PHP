@@ -1,0 +1,8 @@
+<?php
+	$str = "Hello World!";
+	$x = 200;
+	$y = 44.6;
+	echo "String is: $str \n";
+	echo "Integer is: $x \n";
+	echo "float is: $y";
+?>

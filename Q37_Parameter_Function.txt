@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Writing Functions With Parameters</title>
+</head>
+<body>
+	<?php
+		function addFunction($num1, $num2)
+		{
+			$num = $num1+$num2;
+			echo "Sum Of The Two NUmbers Is: ";
+		} 
+		addFunction(10,20);
+?>
+</body>
+</html>

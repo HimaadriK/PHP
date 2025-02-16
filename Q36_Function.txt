@@ -1,0 +1,15 @@
+<html>
+<title>Writing PHP Function</title>
+</head>
+
+<?php
+	function writeMessage()
+	{
+		echo "You are a really nice person, Have a nice day!!";
+	}
+	
+	writeMessage();
+?>
+
+</body>
+</html>

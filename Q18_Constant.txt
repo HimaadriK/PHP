@@ -1,0 +1,8 @@
+<?php
+	define("GREETING", "hello world!", true);
+	echo GREETING;
+	echo "<br>";
+	echo greeting;
+echo "This program is executed by Himaadri Kapoor, 2220100224";
+
+?>
